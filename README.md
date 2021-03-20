@@ -5,7 +5,7 @@ Railroad-diagram Generator
 
 This is a small library for generating railroad diagrams
 (like what [JSON.org](http://json.org) uses)
-using SVG, with both JS and Python ports.
+using SVG, with JS.
 
 Railroad diagrams are a way of visually representing a grammar
 in a form that is more readable than using regular expressions or BNF.
@@ -14,7 +14,7 @@ There are several railroad-diagram generators out there, but none of them had th
 
 [Here's an online dingus for you to play with and get SVG code from!](https://tabatkins.github.io/railroad-diagrams/generator.html)
 
-(For Python, see [the Python README](https://github.com/tabatkins/railroad-diagrams/blob/gh-pages/README-py.md), or just `pip install railroad-diagrams`.)
+This library was fork from https://github.com/tabatkins/railroad-diagrams
 
 Diagrams
 --------

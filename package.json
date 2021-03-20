@@ -1,11 +1,11 @@
 {
-  "name": "railroad-diagrams",
-  "version": "1.1.0",
-  "description": "A small JS+SVG library for drawing railroad syntax diagrams.",
+  "name": "@nytramr/railroad-diagrams",
+  "version": "0.0.1",
+  "description": "A small JS+SVG library for drawing railroad syntax diagrams. (forked from Tab Atkins Jr.)",
   "main": "railroad-diagrams.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tabatkins/railroad-diagrams.git"
+    "url": "https://github.com/Nytramr/railroad-diagrams.git"
   },
   "keywords": [
     "railroad",
@@ -14,10 +14,6 @@
     "grammar",
     "svg"
   ],
-  "author": "Tab Atkins Jr.",
-  "license": "CC0-1.0",
-  "bugs": {
-    "url": "https://github.com/tabatkins/railroad-diagrams/issues"
-  },
-  "homepage": "https://github.com/tabatkins/railroad-diagrams"
+  "author": "Martin Rubinsztein (martin.rubinsztein@gmail.com)",
+  "license": "CC0-1.0"
 }
